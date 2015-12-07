@@ -1,0 +1,28 @@
+name: sohmkapila
+favicon: null
+layout_spectrum: 0.14559243945404887
+typography_spectrum: 0.4585150829516351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.418538712663576
+  lightness: 0.987303132424131
+  saturation: 0.8564233512151986
+  rhythmicContrast: 0.5428268029354513
+purpose: []

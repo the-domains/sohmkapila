@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sohmkapila]]></title>
+        <description><![CDATA[sohmkapila]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Dec 2015 02:27:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bend It like Beckham Musical ]]></title>
+            <description><![CDATA[<article><h1>Bend It like Beckham Musical </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5ff9a4f36c4a948d7df2409a9fd1f15d297193a.jpg"></article>]]></description>
+            <link>undefinedbend-it-like-beckham-musical/index.html</link>
+            <guid isPermaLink="false">4f87edd3-bb6c-47d7-a5a2-b4bdad0844de</guid>
+            <pubDate>Mon, 07 Dec 2015 02:27:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
